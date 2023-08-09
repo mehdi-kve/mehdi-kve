@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi Kaveh</h1>
-<h3 align="center">A passionate web developer developer from Iran</h3>
+<h3 align="center">A passionate web developer</h3>
 
 - 📫 How to reach me **mehdi.k1918@gmail.com**
 
