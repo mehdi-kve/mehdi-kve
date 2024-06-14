@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehdi Kaveh</h1>
-<h3 align="center">A passionate web developer</h3>
-
-- 📫 How to reach me **mehdi.k1918@gmail.com**
-
-- 📄 Know about my experiences [my Linkedin page ](https://www.linkedin.com/in/mahdi-kaveh-4a7124288)
+<h1 align="center">Hi 👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
