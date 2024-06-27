@@ -3,8 +3,9 @@
 Back-End Developer with proficiency especially on the **.NET**,
 with hands-on experience on client-side development.<br>Interested in Web3, Decentralization and Blockchain Technologies.
 
-⚡ If you’d like to get in touch, feel free to say hello through any of the <a href="#">linkedin</a>.
+⚡ If you’d like to get in touch, feel free to say hello through of the <a href="#">LinkedIn</a>.
 <br />
+
  <strong>
   🔭  My Professional skills
   </strong>
