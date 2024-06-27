@@ -12,7 +12,7 @@ with hands-on experience on client-side development.<br>Interested in Web3, Dece
 
 <p align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react)](https://skillicons.dev)
   
 </p>
 
