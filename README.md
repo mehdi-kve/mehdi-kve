@@ -7,7 +7,7 @@ with hands-on experience on client-side development.<br>Interested in Web3, Dece
 <br />
 
  <strong>
-  🔭  My Professional skills
+  🔭  Core skills
   </strong>
 
 <p align="center"> 
